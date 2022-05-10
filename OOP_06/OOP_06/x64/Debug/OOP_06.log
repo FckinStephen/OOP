@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\X-DIABLO\Downloads\OOP\OOP_06\OOP_06\Source.cpp(24,25): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\X-DIABLO\Downloads\OOP\OOP_06\OOP_06\Source.cpp(89,33): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+  OOP_06.vcxproj -> C:\Users\X-DIABLO\Downloads\OOP\OOP_06\x64\Debug\OOP_06.exe

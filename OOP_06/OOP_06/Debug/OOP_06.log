@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\programming\visual programy\oop_06\oop_06\source.cpp(24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\programming\visual programy\oop_06\oop_06\source.cpp(89): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  OOP_06.vcxproj -> E:\Programming\Visual programy\OOP_06\Debug\OOP_06.exe
