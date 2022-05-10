@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\X-DIABLO\Downloads\OOP\OOP_09\OOP_09\Source.cpp(17,57): warning C4305: argument: zkrácení z: double na: float
+C:\Users\X-DIABLO\Downloads\OOP\OOP_09\OOP_09\Source.cpp(18,105): warning C4305: argument: zkrácení z: double na: float
+C:\Users\X-DIABLO\Downloads\OOP\OOP_09\OOP_09\Source.cpp(19,62): warning C4305: argument: zkrácení z: double na: float
+  OOP_09.vcxproj -> C:\Users\X-DIABLO\Downloads\OOP\OOP_09\x64\Debug\OOP_09.exe

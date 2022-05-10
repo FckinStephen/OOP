@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\programming\visual programy\oop_09\oop_09\source.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\programming\visual programy\oop_09\oop_09\source.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\programming\visual programy\oop_09\oop_09\source.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOP_09.vcxproj -> E:\Programming\Visual programy\OOP_09\Debug\OOP_09.exe
