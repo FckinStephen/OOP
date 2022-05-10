@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\X-DIABLO\source\repos\6ka\6ka\Main.cpp(24,25): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\X-DIABLO\source\repos\6ka\6ka\Main.cpp(89,33): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+  6ka.vcxproj -> C:\Users\X-DIABLO\source\repos\6ka\x64\Debug\6ka.exe
